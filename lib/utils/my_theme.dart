@@ -5,7 +5,7 @@ import 'constants.dart';
 
 class MyTheme {
   static final borderRadius = BorderRadius.circular(0);
-  static Color dynamicColor = Color(0xFFffbb38);
+  static Color dynamicColor = Color(0xFF16B364);
 
 //Utils.dynamicPrimaryColor(context)
 

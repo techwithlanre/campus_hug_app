@@ -33,7 +33,7 @@ class HomeAppBar extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
                 // const LocationSelector(),
-                CustomImage(path: RemoteUrls.imageUrl(logo), height: 24),
+                //CustomImage(path: RemoteUrls.imageUrl(logo), height: 24),
                 const Spacer(),
                 const SizedBox(width: 20),
                 InkWell(
