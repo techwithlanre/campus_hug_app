@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:pinput/pinput.dart';
-import 'package:shop_o/modules/authentication/widgets/sign_up_form.dart';
+import 'package:gosmart/modules/authentication/widgets/sign_up_form.dart';
 import '/widgets/capitalized_word.dart';
 import '../../../../utils/constants.dart';
 import '../../../../widgets/primary_button.dart';

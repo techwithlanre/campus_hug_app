@@ -1,7 +1,7 @@
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
-import 'package:shop_o/core/error/failure.dart';
+import 'package:gosmart/core/error/failure.dart';
 import '../../../../utils/utils.dart';
 import '../../../authentication/models/auth_error_model.dart';
 import '../../model/contact_us_mesage_model.dart';

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:shop_o/utils/language_string.dart';
-import 'package:shop_o/widgets/capitalized_word.dart';
+import 'package:gosmart/utils/language_string.dart';
+import 'package:gosmart/widgets/capitalized_word.dart';
 
 import '../utils/constants.dart';
 import 'custom_image.dart';

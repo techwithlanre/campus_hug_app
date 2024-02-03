@@ -2,8 +2,8 @@ import 'dart:convert';
 import 'package:mocktail/mocktail.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:http/http.dart' as http;
-import 'package:shop_o/core/data/datasources/remote_data_source.dart';
-import 'package:shop_o/modules/authentication/models/user_prfile_model.dart';
+import 'package:gosmart/core/data/datasources/remote_data_source.dart';
+import 'package:gosmart/modules/authentication/models/user_prfile_model.dart';
 import 'mock_data/mock_data_reader.dart';
 
 class MockHttpClient extends Mock implements http.Client {}

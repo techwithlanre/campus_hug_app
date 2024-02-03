@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
-import 'package:shop_o/utils/k_images.dart';
-import 'package:shop_o/utils/language_string.dart';
-import 'package:shop_o/widgets/capitalized_word.dart';
+import 'package:gosmart/utils/k_images.dart';
+import 'package:gosmart/utils/language_string.dart';
+import 'package:gosmart/widgets/capitalized_word.dart';
 
 import '../../../core/remote_urls.dart';
 import '../../../utils/constants.dart';

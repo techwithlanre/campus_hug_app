@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:shop_o/utils/k_images.dart';
+import 'package:gosmart/utils/k_images.dart';
 
 import '/modules/authentication/widgets/sign_up_form.dart';
 import '/widgets/capitalized_word.dart';

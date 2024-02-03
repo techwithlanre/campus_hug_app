@@ -1,6 +1,6 @@
 import 'package:dartz/dartz.dart';
-import 'package:shop_o/core/data/datasources/remote_data_source.dart';
-import 'package:shop_o/core/error/failure.dart';
+import 'package:gosmart/core/data/datasources/remote_data_source.dart';
+import 'package:gosmart/core/error/failure.dart';
 
 import '../../../core/error/exception.dart';
 import '../controller/become_seller_state_model.dart';

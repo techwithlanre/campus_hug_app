@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:intl/intl.dart';
-import 'package:shop_o/modules/cart/model/cart_product_model.dart';
-import 'package:shop_o/utils/k_strings.dart';
+import 'package:gosmart/modules/cart/model/cart_product_model.dart';
+import 'package:gosmart/utils/k_strings.dart';
 import 'package:timeago/timeago.dart' as timeago;
 
 import '/modules/cart/model/cart_response_model.dart';

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shop_o/widgets/capitalized_word.dart';
+import 'package:gosmart/widgets/capitalized_word.dart';
 
 import '../../../core/router_name.dart';
 import '../../../utils/constants.dart';

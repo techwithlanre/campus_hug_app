@@ -1,7 +1,7 @@
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:shop_o/core/error/failure.dart';
-import 'package:shop_o/modules/authentication/models/auth_error_model.dart';
+import 'package:gosmart/core/error/failure.dart';
+import 'package:gosmart/modules/authentication/models/auth_error_model.dart';
 
 import '../../../authentication/controller/login/login_bloc.dart';
 import '../payment_repository.dart';

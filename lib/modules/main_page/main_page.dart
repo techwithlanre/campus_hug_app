@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:shop_o/widgets/action_dialog.dart';
+import 'package:gosmart/widgets/action_dialog.dart';
 
 import '/utils/language_string.dart';
 import '/widgets/capitalized_word.dart';

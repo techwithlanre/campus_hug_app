@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:shop_o/widgets/capitalized_word.dart';
+import 'package:gosmart/widgets/capitalized_word.dart';
 
 import '/modules/product_details/model/product_details_product_model.dart';
 import '../../../core/router_name.dart';

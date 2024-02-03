@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:shop_o/utils/utils.dart';
+import 'package:gosmart/utils/utils.dart';
 
 import '/utils/language_string.dart';
 import '/widgets/capitalized_word.dart';

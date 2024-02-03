@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
-import 'package:shop_o/utils/language_string.dart';
+import 'package:gosmart/utils/language_string.dart';
 import '../../../utils/constants.dart';
 import '../../../utils/utils.dart';
 import '../model/details_product_reviews_model.dart';

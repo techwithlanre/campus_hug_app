@@ -70,7 +70,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.quomodosoft.shopo"
+        applicationId "com.gosmart.campus_hug"
         minSdkVersion flutterMinSdkVersion.toInteger()
         targetSdkVersion flutterTargetSdkVersion.toInteger()
         versionCode flutterVersionCode.toInteger()

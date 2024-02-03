@@ -1,7 +1,7 @@
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:shop_o/widgets/capitalized_word.dart';
+import 'package:gosmart/widgets/capitalized_word.dart';
 
 import '../../../core/remote_urls.dart';
 import '../../../core/router_name.dart';

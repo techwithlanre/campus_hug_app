@@ -2,8 +2,8 @@ export 'package:flutter/material.dart';
 export 'package:flutter_bloc/flutter_bloc.dart';
 export 'package:http/http.dart';
 export 'package:shared_preferences/shared_preferences.dart';
-export 'package:shop_o/modules/message/controller/cubit/inbox_cubit.dart';
-export 'package:shop_o/modules/message/controller/repository/chat_respository.dart';
+export 'package:gosmart/modules/message/controller/cubit/inbox_cubit.dart';
+export 'package:gosmart/modules/message/controller/repository/chat_respository.dart';
 
 export '/modules/category/controller/cubit/category_cubit.dart';
 export '/modules/category/controller/cubit/cubit/child_cubit.dart';

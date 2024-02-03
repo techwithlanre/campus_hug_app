@@ -2,8 +2,8 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:shop_o/utils/my_theme.dart';
-import 'package:shop_o/utils/utils.dart';
+import 'package:gosmart/utils/my_theme.dart';
+import 'package:gosmart/utils/utils.dart';
 
 import '../../core/router_name.dart';
 import '../authentication/controller/login/login_bloc.dart';

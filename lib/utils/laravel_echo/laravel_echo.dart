@@ -1,6 +1,6 @@
 import 'package:laravel_echo/laravel_echo.dart';
 import 'package:pusher_client/pusher_client.dart';
-import 'package:shop_o/core/remote_urls.dart';
+import 'package:gosmart/core/remote_urls.dart';
 
 class LaravelEcho {
   static LaravelEcho? _singleton;

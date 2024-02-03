@@ -5,12 +5,12 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:grouped_list/grouped_list.dart';
 import 'package:intl/intl.dart';
 import 'package:pusher_client/pusher_client.dart';
-import 'package:shop_o/modules/authentication/controller/login/login_bloc.dart';
-import 'package:shop_o/modules/message/component/display_prodcut_card.dart';
-import 'package:shop_o/modules/message/controller/cubit/inbox_cubit.dart';
-import 'package:shop_o/modules/message/models/seller_messages_dto.dart';
-import 'package:shop_o/utils/constants.dart';
-import 'package:shop_o/widgets/rounded_app_bar.dart';
+import 'package:gosmart/modules/authentication/controller/login/login_bloc.dart';
+import 'package:gosmart/modules/message/component/display_prodcut_card.dart';
+import 'package:gosmart/modules/message/controller/cubit/inbox_cubit.dart';
+import 'package:gosmart/modules/message/models/seller_messages_dto.dart';
+import 'package:gosmart/utils/constants.dart';
+import 'package:gosmart/widgets/rounded_app_bar.dart';
 
 import '../../../utils/laravel_echo/laravel_echo.dart';
 import '../../../utils/logger.dart';

@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:shop_o/core/error/failure.dart';
-import 'package:shop_o/modules/authentication/models/auth_error_model.dart';
+import 'package:gosmart/core/error/failure.dart';
+import 'package:gosmart/modules/authentication/models/auth_error_model.dart';
 
 import '../../models/set_password_model.dart';
 import '../../repository/auth_repository.dart';

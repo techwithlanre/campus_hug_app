@@ -1,5 +1,5 @@
 class RemoteUrls {
-  static const String rootUrl = "https://mamunuiux.com/shopo/";
+  static const String rootUrl = "https://admin.campushug.com/";
   static const String baseUrl = '${rootUrl}api/';
   static const String homeUrl = baseUrl;
   static const String userRegister = '${baseUrl}store-register';

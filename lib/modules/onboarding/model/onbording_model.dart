@@ -1,9 +1,9 @@
 import 'package:equatable/equatable.dart';
 
-class OnBordingModel extends Equatable {
+class OnBoardingModel extends Equatable {
   final String title, image, paragraph;
 
-  const OnBordingModel({
+  const OnBoardingModel({
     required this.paragraph,
     required this.title,
     required this.image,

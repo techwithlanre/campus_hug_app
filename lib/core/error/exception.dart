@@ -1,4 +1,4 @@
-import 'package:shop_o/core/error/failure.dart';
+import 'package:gosmart/core/error/failure.dart';
 
 import '../../modules/authentication/models/auth_error_model.dart';
 
