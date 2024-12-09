@@ -259,9 +259,9 @@ class ErrorText extends StatelessWidget {
       padding: const EdgeInsets.symmetric(horizontal: 10),
       child: Text(
         text,
-        style: Theme.of(context).textTheme.caption!.copyWith(
-              color: Colors.red,
-            ),
+        /*style: Theme.of(context).textTheme.caption!.copyWith(
+          color: Colors.red,
+        ),*/
       ),
     );
   }

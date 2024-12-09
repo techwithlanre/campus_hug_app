@@ -48,7 +48,7 @@ class ChatListItem extends StatelessWidget {
           ),
           Text(
             utcToLocal(item.messages.last.createdAt),
-            style: Theme.of(context).textTheme.caption,
+            //style: Theme.of(context).textTheme.caption,
           ),
         ],
       ),

@@ -26,7 +26,7 @@ class MyTheme {
           elevation: 0,
         ),
         textTheme: GoogleFonts.interTextTheme(
-          const TextTheme(
+          /*const TextTheme(
             caption: TextStyle(fontSize: 12, height: 1.83),
             bodyText1: TextStyle(
                 fontSize: 16, fontWeight: FontWeight.w500, height: 1.375),
@@ -35,7 +35,7 @@ class MyTheme {
                 TextStyle(fontSize: 16, height: 2, fontWeight: FontWeight.w600),
             // titleLarge: const TextStyle(
             //     fontSize: 16, height: 2, fontWeight: FontWeight.w600),
-          ),
+          ),*/
         ),
         elevatedButtonTheme: ElevatedButtonThemeData(
           style: ElevatedButton.styleFrom(

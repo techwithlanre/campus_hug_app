@@ -156,10 +156,10 @@ class _LoadedWidgetState extends State<_LoadedWidget> {
             padding: const EdgeInsets.symmetric(horizontal: 20),
             child: Text(
               Language.swipeToDelete.capitalizeByWord(),
-              style: Theme.of(context)
+              /*style: Theme.of(context)
                   .textTheme
                   .caption!
-                  .copyWith(color: textGreyColor),
+                  .copyWith(color: textGreyColor),*/
             ),
           ),
         Expanded(

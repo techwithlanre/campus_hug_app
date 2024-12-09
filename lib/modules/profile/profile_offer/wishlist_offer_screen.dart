@@ -124,9 +124,9 @@ class __LoadedWidgetState extends State<_LoadedWidget> {
             padding: const EdgeInsets.symmetric(horizontal: 20),
             child: Text(
               Language.swipeToDelete.capitalizeByWord(),
-              style: Theme.of(context).textTheme.caption!.copyWith(
+              /*style: Theme.of(context).textTheme.caption!.copyWith(
                     color: grayColor,
-                  ),
+                  ),*/
             ),
           ),
         Expanded(
